@@ -10,5 +10,6 @@
 
     <modules>
         <module>simfle-config</module>
+        <module>simfle-eureka</module>
     </modules>
 </project>

@@ -11,5 +11,8 @@
     <modules>
         <module>simfle-config</module>
         <module>simfle-eureka</module>
+        <module>simfle-search-apigateway</module>
+        <module>simfle-search</module>
+        <module>simfle-web</module>
     </modules>
 </project>
